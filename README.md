@@ -1,1 +1,1 @@
-# CountDown-_Timer
+# KodeCamp day 9 challenge task to implement a countdown timer
